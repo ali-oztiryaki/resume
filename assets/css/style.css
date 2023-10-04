@@ -915,7 +915,7 @@ section.section-visible:before {
 .blog-item .details .meta i, .blog-single .post-title .meta i {
     margin-right: 10px;
     vertical-align: middle;
-    font-size: 13px;
+    font-size: 14px;
     position: relative;
     top: -2px;
 }
